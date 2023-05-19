@@ -11,6 +11,7 @@
             <span style="float: right ;margin-top: -20px;margin-right:5px;" @click="deleteEle(element)">
               <i style="color:#ff4949" class="el-icon-delete" />
             </span>
+            
           </div>
         </div>
       </draggable>
